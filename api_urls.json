@@ -1,0 +1,5 @@
+{
+    "heart_rate_all": "{api}/data/heart_rate/all",
+    "questionanaires": "{api}/questionnaire/{questionnaire}/latest",
+    "activity": "{api}/google_fit/{activity}/from/{from}/to/{to}"
+}
